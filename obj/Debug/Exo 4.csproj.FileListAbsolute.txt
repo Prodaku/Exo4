@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\obj\Debug\Exo 4.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\obj\Debug\Exo 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\bin\Debug\Exo 4.exe.config
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\bin\Debug\Exo 4.exe
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\bin\Debug\Exo 4.pdb
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\obj\Debug\Exo 4.exe
+C:\Users\Dell\Desktop\Premier TP\Exo 4\Exo 4\obj\Debug\Exo 4.pdb
